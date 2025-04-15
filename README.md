@@ -3,15 +3,21 @@ A web-based application designed to digitize Gram Panchayat services and streaml
 
 #Tech Stack
 
-##🔧 Backend
+#🔧 Backend
+
 Node.js
+
 Express.js
+
 Firebase Admin SDK
+
 JWT & Middleware Auth
+
 CORS, Axios
+
 Firestore Database
 
-##🎨 Frontend
+#🎨 Frontend
 React.js
 Bootstrap
 React Router DOM
