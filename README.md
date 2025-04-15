@@ -43,3 +43,15 @@ Firebase Authentication
 📡 Firebase token validation via Express
 
 
+E-Gram-Panchayat---Fullstack-Web-App/
+├── backend/
+│   ├── server.js
+│   ├── firebaseAdmin.js
+│   ├── routes/
+│   ├── controllers/
+│   ├── middleware/
+│   └── .env
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── .env
