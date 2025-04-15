@@ -42,6 +42,7 @@ Firebase Authentication
 
 📡 Firebase token validation via Express
 
+### 📁 Project Structure
 
 E-Gram-Panchayat---Fullstack-Web-App/
 ├── backend/
@@ -55,3 +56,4 @@ E-Gram-Panchayat---Fullstack-Web-App/
 │   ├── src/
 │   ├── public/
 │   └── .env
+
