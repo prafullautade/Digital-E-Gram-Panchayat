@@ -26,3 +26,33 @@ Bootstrap
 React Router DOM
 
 Firebase Authentication
+
+
+### 🚀 Features
+
+🔐 Role-based Authentication (Admin / User)
+
+📩 Firebase-based registration & login
+
+🛠️ Create/Update/Delete Panchayat services
+
+🧑 Dashboards for each user role
+
+🌐 Protected Routes
+
+📡 Firebase token validation via Express
+
+### 📁 Project Structure
+
+E-Gram-Panchayat---Fullstack-Web-App/
+├── backend/
+│   ├── server.js
+│   ├── firebaseAdmin.js
+│   ├── routes/
+│   ├── controllers/
+│   ├── middleware/
+│   └── .env
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── .env
